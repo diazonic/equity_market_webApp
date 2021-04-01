@@ -165,4 +165,3 @@ plt.legend(['Train', 'Val', 'Predictions'], loc='lower right')
 st.pyplot()
 st.subheader("Prediction and Close comparison")
 st.write(valid)
-
