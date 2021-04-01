@@ -1,5 +1,4 @@
 
-from pyngrok import ngrok
 
 import streamlit as st
 import tensorflow as tf
